@@ -13,7 +13,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **`React`**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
