@@ -1,8 +1,8 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coffee Coding" width="140" height="140" style="object-fit: cover;" />
-    <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Tech Cat" width="140" height="140" style="object-fit: cover;" />
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Cat" width="140" height="140" style="object-fit: cover;" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXkycnQ4ejluYmZ4cW1jeHA4OWVtZzZyYXY3bDMwNmltaHo0azIyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" alt="Coffee Coding" width="160" height="140" style="object-fit: cover;" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFiMTl3a3pwM25nd2FpYXY1M2hyaWs1a3d3ejhlNWQwa2wzeW52bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIbzujHh2PCbm/giphy.gif" alt="Tech Cat" width="160" height="140" style="object-fit: cover;" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzMzhyNW9ydDl6cTUzemx1Nms4OXRuZGg2aTFjdnAzZnNtMG10diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7hJZcKzjIufeOmqKSj/giphy.gif" alt="GitHub Cat" width="160" height="140" style="object-fit: cover;" />
   </div>
 </div>
 
